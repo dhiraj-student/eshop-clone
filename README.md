@@ -5,7 +5,7 @@ A clean and responsive frontend clone of a modern e-commerce homepage, inspired 
 ---
 
 ## 🌐 Live Demo
-
+[https://dhiraj-student.github.io/eshop-clone/]
 
 
 ## 📌 Features
